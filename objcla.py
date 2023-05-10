@@ -9,4 +9,10 @@
     
 '''The code above, the statement "class" initiates a class followed by a class name tagged "ClassName" and ecnlosed with a (:).
     The class_suite consist of all the component statement defining class members, attributes and functions.
+    Also, we can create a class and assign a property. Check example below.
+    
+    class MyDigit:
+    x =10
+    
+    In this example, x is the property assigned value 10.
     '''
