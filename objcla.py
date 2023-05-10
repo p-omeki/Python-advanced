@@ -16,3 +16,23 @@
     
     In this example, x is the property assigned value 10.
     '''
+#Creating instance of class(objects)
+'''When creating instance objects, we use __init__(), also known as class contructor and it initializes creation of a new objects in a class.
+and parameters are defined within the paranthesis. Check the example below;
+       def __init__(name, salary), Now, the name and salary are the parameters.
+'''
+#Accessing attributes
+  ##Check this code below
+    '''class Employee:
+        'A small documentation on employees'
+        empCount=0
+        "This would create first employee name and salary"
+        emp1 = Employee("Zara", 1000)
+        emp1.displayEmployee()
+        Now, an attribute is accessed with a dot(.)
+        The emp1.displayEmployee() will print access this attribute and print the output: "This would..."
+        
+        
+        
+        '''
+        
