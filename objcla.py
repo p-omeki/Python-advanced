@@ -2,7 +2,7 @@
 #Creating a class in python
 """
     class ClassName:
-    'Simple documentation of class string'
+    'Simple documentation of class string ~ This is normally a docstring file describing a small description or documentation of the class'
     class_suite
     
     """
